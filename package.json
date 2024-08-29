@@ -1,0 +1,15 @@
+{
+  "name": "backend-dunia",
+  "version": "1.0.0",
+  "description": "this is a backend project repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "Priya Rajani",
+  "license": "ISC"
+}
